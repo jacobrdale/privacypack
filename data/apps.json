@@ -396,7 +396,8 @@
                 { "id": "discourse", "name": "Discourse" },
                 { "id": "gamevox", "name": "GameVox" },
                 { "id": "stoat", "name": "Stoat" },
-                { "id": "fluxer", "name": "Fluxer" }
+                { "id": "fluxer", "name": "Fluxer" },
+                { "id": "yapper", "name": "Yapper" }
             ]
         },
         {
